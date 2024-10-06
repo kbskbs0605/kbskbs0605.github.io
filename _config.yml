@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "day_germany.jpg"
+  avatar           : "day_germany_square.jpg"
   name             : "Banseok Kim"
   pronouns         : # example: "she/her"  
   bio              : "Dataset Distillation and Medical AI"
