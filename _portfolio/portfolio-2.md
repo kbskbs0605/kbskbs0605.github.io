@@ -9,4 +9,4 @@ We implemented Deep Q-learning for agent reaching goal passing obstacles in grid
 
 Observation from this experiment includes the average return of each episode as the training progresses and the ratio of goal reached episode over timeout episodes.
 
-![Editing a markdown file for a talk](/images/RL_stage.gif)
+![Editing a markdown file for a talk](/images/return_timeout.gif)
