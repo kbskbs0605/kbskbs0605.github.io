@@ -10,8 +10,13 @@ Who I am
 ======
 I am a persevering Yonsei undergraduate student willing to devour myself to research. 
 
-I find research process very enjoyable. Recently, I am conducting research on Dataset Distillation. During research, pointing out problems and visualizing them in multiple aspects for analysis is my favorite part of research. Every night, after making changes and running my code on server, I am excited to monitor performance improvement the next morning. Waiting for the result, I spend my time in shower or walk contemplating novel ideas and re-verifying them.
+I find research process very enjoyable. Recently, I am conducting research on Dataset Distillation. 
+
+When encountering a research topic, finding unsolved problems and visualizing them in multiple aspects for analysis is the favorite part for me. Adding different ideas and monitoring performance changes is a much-awaited part, given that running codes sometimes take couple of days. However, I think rather than being overly immersed, taking a refreshment time is helpful in many ways. Sometimes, having came up with ideas taking a shower helps re-verification of what the idea is actually targetting. Staying focused on a single topic too deeply causes short-sighting. Nonetheless, I also know that none of this matters when I enjoy it! 
+
+Here is a simple demonstration of what I do!
 ![Editing a markdown file for a talk](/images/DD_frontpage.gif)
+Dataset distillation
 
 ![Editing a markdown file for a talk](/images/animated_image.gif)
 
