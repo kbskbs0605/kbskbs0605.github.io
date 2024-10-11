@@ -31,7 +31,7 @@ Developing interest in
 
   I developed familiarity in CT reconstruction images and recently found research topics that mitigates defective instances in CT images.
 
-  This is a demonstration of what I studied in Bio-Electrical Engineering class, a defective instance of patient moving during the CT scan.
+  This is a demonstration of what I studied in Bio-Electrical Engineering class, an example of CT image reconstrucion when patient moves during the CT scan.
   
 ![Editing a markdown file for a talk](/images/animated_image.gif)
 
