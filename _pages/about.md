@@ -25,11 +25,16 @@ What I do
 
   One of the design choices in dataset distillation is the number of images/class. Obviously, higher image/class mean higher performance. However, the performance changes are not linear with the images/class. Me and my collegue aims to tackle this problem with advisory from professor Bumsub Ham.
 
+
   Apart from current study, I am also developing interest in Medical AI. It seems intriguing to actually apply and develop AI models for specific purposes.
 
   I developed familiarity in CT reconstruction images and recently found research topics that mitigates defective instances in CT images.
 
-  This is a demonstration of what I studied in Bio-Electrical Engineering class. A defective instance of patient moving during the CT scan.
+  This is a demonstration of what I studied in Bio-Electrical Engineering class, a defective instance of patient moving during the CT scan.
+  
 ![Editing a markdown file for a talk](/images/animated_image.gif)
 
+  I am looking forward to contribution in Medical Imaging AI research community, such as mitigating noises in Low-Dose CT images.
+
+  
 
