@@ -1,10 +1,11 @@
 ---
-title: "Reinforcement Learning in grid world"
-excerpt: "Implemented Deep Q-learning Network on grid world <br/><img src='/images/RL_stage.gif'>"
+title: "Designing passband transmission from scratch"
+excerpt: "Implemented whole procedure of wireless communication <br/><img src='/images/QPSK_mod_demod.gif'>"
 collection: portfolio
 ---
-Hello
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We Implemented a whole procedure of QPSK: Binary data generator, Symbol mapping, Up-sampling, Pulse-shaping filter, Bandpass modulation, Bandpass demodulation, Matched filter, Sampling, Symbol detection, BER calculation
 
-![Editing a markdown file for a talk](/images/RL_stage.gif)
+![Editing a markdown file for a talk](/images/QPSK_mod_demod.gif)
+
+We also visulized the BER graph of the designed passband transmission system
