@@ -25,7 +25,8 @@ What I do
 
   One of the design choices in dataset distillation is the number of images/class. Obviously, higher image/class mean higher performance. However, the performance changes are not linear with the images/class. Me and my collegue aims to tackle this problem with advisory from professor Bumsub Ham.
 
-
+Developing interest in
+======
   Apart from current study, I am also developing interest in Medical AI. It seems intriguing to actually apply and develop AI models for specific purposes.
 
   I developed familiarity in CT reconstruction images and recently found research topics that mitigates defective instances in CT images.
