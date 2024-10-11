@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Lab Course Project"
-excerpt: "Implementation of various deep learning tasks<br/><img src='/images/QPSK_mod_demod.png'>"
+excerpt: "Implementation of various deep learning tasks<br/><img src='/images/animation_with_updated_titles.png'>"
 collection: portfolio
 ---
 
