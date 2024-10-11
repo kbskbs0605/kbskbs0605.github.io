@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Who I am
+======
+I am a persevering Yonsei undergraduate student willing to devour myself to research. 
 
+I find research process very enjoyable. Recently, I am conducting research on Dataset Distillation. During research, pointing out problems and visualizing them in multiple aspects for analysis is my favorite part of research. Every night, after making changes and running my code on server, I am excited to monitor performance improvement the next morning. Waiting for the result, I spend my time in shower or walk contemplating novel ideas and re-verifying them.
 ![Editing a markdown file for a talk](/images/DD_frontpage.gif)
 
 ![Editing a markdown file for a talk](/images/animated_image.gif)
